@@ -1,3 +1,5 @@
 # Photo-Gallery-Android-App
-- 3rd app of Kristin_Marsicano_Brian_Gardner_Bryan_Sills_Chris_Stewart_-_Android_Programming__The_Big_Nerd_Ranch_Guide_Big_Nerd_Ranch_Guides-Addison-Wesley_Professional_2022
-- download android studio and run it
+created on android studio
+
+https://github.com/AshianBoii/Photo-Gallery-Android-App/assets/45045020/552c721c-86a8-46a8-8659-947499ee2a77
+
